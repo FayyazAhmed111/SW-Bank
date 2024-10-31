@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458197825311",
+    "project_id": "swbank-75fbd",
+    "storage_bucket": "swbank-75fbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458197825311:android:d1986e1dfd68c32ce3a22a",
+        "android_client_info": {
+          "package_name": "com.example.swbanking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWL9AxUTAkedrhCjsYUxXwi6k_htS4ADw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
